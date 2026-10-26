@@ -1,4 +1,4 @@
-<h1 align="center">Caio Dassumpção Rodrigues</h1>
+[<h1 align="center">Caio Dassumpção Rodrigues</h1>
 <p align="center">
   <b>Full Stack Developer & Tech Lead</b> @ Cognvox · Recife, PE 🇧🇷<br/>
   End-to-end solutions — from database to front-end, from deploy to production — with security by design.
@@ -33,3 +33,4 @@
 | [**projeto-1**](https://github.com/caiodassumpcao/projeto-1) | O que resolve, em 1 linha | Node.js · React · PostgreSQL |
 | [**projeto-2**](https://github.com/caiodassumpcao/projeto-2) | Ferramenta de automação — o que elimina | Python · Docker |
 | [**projeto-3**](https://github.com/caiodassumpcao/projeto-3) | Infra/segurança — ex.: hardening, CI/CD | Linux · Nginx · GitHub Actions |
+](https://github.com/caiodassumpcao/arte_sem_preco)
