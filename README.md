@@ -1,4 +1,4 @@
-[<h1 align="center">Caio Dassumpção Rodrigues</h1>
+<h1 align="center">Caio Dassumpção Rodrigues</h1>
 <p align="center">
   <b>Full Stack Developer & Tech Lead</b> @ Cognvox · Recife, PE 🇧🇷<br/>
   End-to-end solutions — from database to front-end, from deploy to production — with security by design.
@@ -15,7 +15,7 @@
 
 - 🧑‍💻 **Full Stack** — dynamic interfaces and robust, scalable, secure APIs
 - 🧭 **Tech Lead** — architecture, code review, mentoring and sprint planning aligned with business goals
-- 🖥️ **Infrastructure** — server setup and management with focus on availability, performance and hardening
+- 🖥️ **Infrastructure** — server setup and management with focus on availability, performance and CIS-mapped hardening
 - ⚙️ **Automation** — internal tools that remove manual work and speed up workflows
 - 🔐 **Security** — secure development, access control, data and infra protection (DevSecOps)
 - 🎓 Systems Analysis & Development · Postgraduate student in Cybersecurity
@@ -23,14 +23,12 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,python,php,postgres,mysql,docker,linux,nginx,git,githubactions&perline=11" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,python,php,postgres,mysql,docker,linux,nginx,ansible,git,githubactions&perline=12" />
 </p>
 
 ### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**projeto-1**](https://github.com/caiodassumpcao/projeto-1) | O que resolve, em 1 linha | Node.js · React · PostgreSQL |
-| [**projeto-2**](https://github.com/caiodassumpcao/projeto-2) | Ferramenta de automação — o que elimina | Python · Docker |
-| [**projeto-3**](https://github.com/caiodassumpcao/projeto-3) | Infra/segurança — ex.: hardening, CI/CD | Linux · Nginx · GitHub Actions |
-](https://github.com/caiodassumpcao/arte_sem_preco)
+| [**server-hardening-kit**](https://github.com/caiodassumpcao/server-hardening-kit) | Automated Ubuntu hardening mapped to the CIS Benchmark — Lynis **61 → 80** measured on real VMs, audit-only mode and lockout-safe SSH migration | Ansible · Molecule · GitHub Actions · Lynis |
+| [**arte_sem_preco**](https://github.com/caiodassumpcao/arte_sem_preco) | Open digital library for independent literature, with transparent author payouts (90/10 split) and a voluntary "pay later" model | JavaScript |
