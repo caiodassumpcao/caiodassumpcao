@@ -23,7 +23,7 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,python,php,postgres,mysql,docker,linux,nginx,ansible,git,githubactions&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,python,php,postgres,mysql,docker,linux,nginx,ansible,prometheus,git,githubactions&perline=13" />
 </p>
 
 ### Featured Projects
