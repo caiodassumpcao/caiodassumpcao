@@ -23,13 +23,15 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,python,php,postgres,mysql,docker,linux,nginx,ansible,prometheus,git,githubactions&perline=13" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,nodejs,react,python,php,postgres,mysql,kafka,docker,linux,nginx,ansible,prometheus,git,githubactions&perline=9" />
 </p>
 
 ### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
+| [**orderflow**](https://github.com/caiodassumpcao/orderflow) 🚧 | Event-driven order management platform with CQRS, Transactional Outbox and saga-based stock reservation. Idempotent Kafka consumers with retry/DLQ, OIDC auth with RBAC, SQL tuned with `EXPLAIN ANALYZE`, WCAG 2.2 AA accessibility and a CI pipeline with CodeQL, Trivy and gitleaks. *In active development, built phase by phase.* | Java 21 · Spring Boot · Angular · TypeScript · Kafka · PostgreSQL · Keycloak · Testcontainers · Playwright |
+| [**secure-api-pipeline**](https://github.com/caiodassumpcao/secure-api-pipeline) 🚧 | Secure delivery pipeline for APIs that combines **server-hardening-kit** (CIS-mapped hardening) and **drkit** (encrypted backup & disaster recovery) into a single DevSecOps flow — hardened hosts, tested recovery and automated checks on every change | Ansible · Python · Docker · GitHub Actions |
 | [**server-hardening-kit**](https://github.com/caiodassumpcao/server-hardening-kit) | Automated Ubuntu hardening mapped to the CIS Benchmark — Lynis **61 → 80** measured on real VMs, audit-only mode and lockout-safe SSH migration | Ansible · Molecule · GitHub Actions · Lynis |
-| [**arte_sem_preco**](https://github.com/caiodassumpcao/arte_sem_preco) | Open digital library for independent literature, with transparent author payouts (90/10 split) and a voluntary "pay later" model | JavaScript |
 | [**drkit**](https://github.com/caiodassumpcao/drkit) | Backup & disaster recovery for Docker Compose servers — databases, volumes, secrets, code and config into encrypted off-site storage, with restore by database, project or whole host (rebuilt with server-hardening-kit). A DR drill destroys and rebuilds a server in CI: **RTO 49.9 s**, data verified identical; Prometheus metrics and tested alert rules | Python · restic · Docker · Ansible · Prometheus · GitHub Actions |
+| [**arte_sem_preco**](https://github.com/caiodassumpcao/arte_sem_preco) | Open digital library for independent literature, with transparent author payouts (90/10 split) and a voluntary "pay later" model | JavaScript |
